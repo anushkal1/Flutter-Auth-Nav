@@ -1,4 +1,4 @@
-#Mon Oct 23 19:54:41 PDT 2023
-base.0=/Users/anushkalodha/Documents/cs184/hello_world/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Oct 23 23:35:36 PDT 2023
+base.0=/Users/anushkalodha/Documents/cs184/Flutter_Auth_Nav/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

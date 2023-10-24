@@ -4,7 +4,7 @@
             "outputFile": "com.example.hello_world.app-mergeDebugResources-13:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/anushkalodha/Documents/cs184/hello_world/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/anushkalodha/Documents/cs184/Flutter_Auth_Nav/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

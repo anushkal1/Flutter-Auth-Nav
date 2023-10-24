@@ -4,25 +4,6 @@
             "outputFile": "com.example.hello_world.app-mergeDebugResources-13:/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/anushkalodha/Documents/cs184/hello_world/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "130,134",
-                        "startColumns": "4,4",
-                        "startOffsets": "9259,9440",
-                        "endLines": "133,136",
-                        "endColumns": "12,12",
-                        "endOffsets": "9435,9604"
-                    }
-                },
-                {
                     "source": "/Users/anushkalodha/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/res/values/values.xml",
                     "from": {
                         "startLines": "2,7,8,9,10,11,19,23,34,51",
@@ -73,6 +54,25 @@
                         "startOffsets": "6434,7612",
                         "endColumns": "67,166",
                         "endOffsets": "6497,7774"
+                    }
+                },
+                {
+                    "source": "/Users/anushkalodha/Documents/cs184/Flutter_Auth_Nav/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "130,134",
+                        "startColumns": "4,4",
+                        "startOffsets": "9259,9440",
+                        "endLines": "133,136",
+                        "endColumns": "12,12",
+                        "endOffsets": "9435,9604"
                     }
                 },
                 {
